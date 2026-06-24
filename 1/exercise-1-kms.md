@@ -9,6 +9,8 @@ Two KMS instances are running at:
 http://tii-qkd-workshop.uaenorth.cloudapp.azure.com
 ```
 
+[ETSI 014](https://www.etsi.org/deliver/etsi_gs/QKD/001_099/014/01.01.01_60/gs_qkd014v010101p.pdf)
+
 | Role | SAE ID | Port |
 | --- | --- | --- |
 | Master | `K002X001` | `5001` |
